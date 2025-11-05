@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Что делает оператор SELECT?",
+    "options": ["Выбирает данные", "Удаляет таблицу", "Изменяет структуру", "Добавляет строку"],
+    "answer": 0
+  },
+  {
+    "question": "Какой оператор используется для добавления данных?",
+    "options": ["INSERT", "SELECT", "UPDATE", "DROP"],
+    "answer": 0
+  },
+  {
+    "question": "Как выбрать все столбцы из таблицы users?",
+    "options": ["SELECT * FROM users;", "SELECT users FROM *;", "GET FROM users;", "SHOW ALL users;"],
+    "answer": 0
+  },
+  {
+    "question": "Какой тип данных подходит для хранения текста?",
+    "options": ["VARCHAR", "INT", "FLOAT", "DATE"],
+    "answer": 0
+  },
+  {
+    "question": "Что делает оператор DELETE?",
+    "options": ["Удаляет данные", "Обновляет данные", "Добавляет ограничения", "Выбирает данные"],
+    "answer": 0
+  },
+  {
+    "question": "Как найти все строки, где age > 18?",
+    "options": ["SELECT * FROM table WHERE age > 18;", "SELECT * FROM table WHERE age < 18;", "SELECT age = 18 FROM table;", "SELECT * FROM table IF age > 18;"],
+    "answer": 0
+  },
+  {
+    "question": "Какой оператор изменяет уже существующие данные?",
+    "options": ["UPDATE", "SELECT", "INSERT", "CREATE"],
+    "answer": 0
+  },
+  {
+    "question": "Как отсортировать результат по столбцу name?",
+    "options": ["ORDER BY name", "SORT name", "GROUP name", "SEQUENCE name"],
+    "answer": 0
+  },
+  {
+    "question": "Как соединить две таблицы по общему столбцу?",
+    "options": ["JOIN", "MERGE", "UNION", "GROUP"],
+    "answer": 0
+  },
+  {
+    "question": "Как посчитать количество строк в таблице?",
+    "options": ["SELECT COUNT(*) FROM table;", "SELECT SUM(*) FROM table;", "SELECT TOTAL FROM table;", "COUNT FROM table;"],
+    "answer": 0
+  },
+  {
+    "question": "Как выбрать только уникальные значения столбца?",
+    "options": ["SELECT DISTINCT column FROM table;", "SELECT UNIQUE column FROM table;", "SELECT column FROM table UNIQUE;", "DISTINCT SELECT column FROM table;"],
+    "answer": 0
+  },
+  {
+    "question": "Что означает оператор GROUP BY?",
+    "options": ["Группирует строки по значению столбца", "Сортирует таблицу", "Удаляет строки", "Выбирает столбец"],
+    "answer": 0
+  },
+  {
+    "question": "Как добавить столбец?",
+    "options": ["ALTER TABLE table ADD column datatype;", "INSERT INTO table column;", "UPDATE table ADD column;", "SELECT ADD COLUMN;"],
+    "answer": 0
+  },
+  {
+    "question": "Как удалить таблицу?",
+    "options": ["DROP TABLE table;", "DELETE FROM table;", "REMOVE TABLE table;", "ALTER TABLE table DROP;"],
+    "answer": 0
+  },
+  {
+    "question": "Что такое PRIMARY KEY?",
+    "options": ["Уникальный идентификатор строки", "Столбец для хранения текста", "Оператор сортировки", "Формат даты"],
+    "answer": 0
+  },
+  {
+    "question": "Как выбрать строки, где имя начинается на 'A'?",
+    "options": ["SELECT * FROM table WHERE name LIKE 'A%';", "SELECT * FROM table WHERE name = 'A';", "SELECT * FROM table WHERE name FROM 'A';", "SELECT * FROM table WHERE name LIKE '%A';"],
+    "answer": 0
+  },
+  {
+    "question": "Что делает оператор HAVING?",
+    "options": ["Фильтрует группы после GROUP BY", "Добавляет ограничения", "Сортирует группу", "Обновляет столбец"],
+    "answer": 0
+  },
+  {
+    "question": "Как объединить результаты двух запросов?",
+    "options": ["UNION", "JOIN", "MERGE", "APPEND"],
+    "answer": 0
+  },
+  {
+    "question": "Как обозначить внешний ключ?",
+    "options": ["FOREIGN KEY", "PRIMARY KEY", "OUTER KEY", "SECONDARY KEY"],
+    "answer": 0
+  },
+  {
+    "question": "Какая функция возвращает среднее значение?",
+    "options": ["AVG()", "COUNT()", "MAX()", "SUM()"],
+    "answer": 0
+  }
+]
